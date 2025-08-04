@@ -23,30 +23,35 @@ C language: Variable Names, Data Types and Sizes, Constants, Declarations,  Arit
 C language: Statements and Blocks, If-Else and Else-If , Switch;Top-down Design (Textbook 2, Chapter1, Section 1.3): Breaking a problem into sub-problems, Choice of a suitable data structure,Construction of loops- establishing the initial conditions, finding the iterative construct, termination of loops;C language: Loops - While and For, Loops - Do-While, Break and Continue, Goto and labels.
 
 # Week 5 (Functions and Program Structure):
-Implementation of Algorithms (Textbook 2, Chapter1, Section 1.4): Use of procedures to emphasize modularity, Choice of variable names, Documentation of programs, Debugging programs, Program testing;
+Implementation of Algorithms: Use of procedures to emphasize modularity, Choice of variable names, Documentation of programs, Debugging programs, Program testing;
 C language: Basics of Functions, Functions Returning Non-integers,  External Variables.
 
 # Week 6 (Functions and Program Structure (cont.)):
 C language: Scope Rules, Header Files,  Static Variables, Register Variables,  Block Structure,  Initialization
 
 # Week 7 (Standard library):
-C language: Input and Output: <stdio.h> , Formatted Output, Formatted Input,  Character Input and Output Functions, Direct Input
+
+C language: Input and Output: <stdio.h>, Formatted Output, Formatted Input,  Character Input and Output Functions, Direct Input
 and Output Functions, Character Class Tests: <ctype.h> , String Functions: <string.h>,  Mathematical Functions: <math.h>, Utility
 Functions: <stdlib.h>
 
-# Week 8 (Functions and Program Structure (cont.)):
+# Week 8 (Functions and Program Structure (cont.))
+
 C language: Recursion, The C Preprocessor, File Inclusion, Macro Substitution, Conditional Inclusion
 
-# Week 9 (Pointers and Arrays):
+# Week 9 (Pointers and Arrays)
+
 C language: Pointers and Addresses, Pointers and Function Arguments, Pointers and Arrays, Address Arithmetic, Character
 Pointers and Functions
 
-# Week 10 ( Pointers and Arrays (cont.)): C language: Pointer Arrays (Pointers to Pointers),  Multi-dimensional Arrays,
-Initialization of Pointer Arrays, Pointers vs. Multi-dimensional Arrays, Command-line Arguments, Pointers to Functions
+# Week 10 ( Pointers and Arrays (cont.)): 
+C language: Pointer Arrays (Pointers to Pointers),  Multi-dimensional Arrays, Initialization of Pointer Arrays, Pointers vs. Multi-dimensional Arrays, Command-line Arguments, Pointers to Functions
 
-# Week 11 (Structures):  C language: Basics of Structures,  Structures and Functions, Arrays of Structures, Pointers to Structures
+# Week 11 (Structures):  
+C language: Basics of Structures,  Structures and Functions, Arrays of Structures, Pointers to Structures
 
-# Week 12 (Structures (cont.)): C language: Table Lookup, Typedef, Unions,  Bit-fields
+# Week 12 (Structures (cont.)): 
+C language: Table Lookup, Typedef, Unions,  Bit-fields
 
 # Week 13: Basics of AI-assisted coding using GitHub Copilot / CodiumAI (References 2 and 3)
 
