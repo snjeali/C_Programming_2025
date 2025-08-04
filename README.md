@@ -53,8 +53,11 @@ C language: Basics of Structures,  Structures and Functions, Arrays of Structure
 # Week 12 (Structures (cont.)): 
 C language: Table Lookup, Typedef, Unions,  Bit-fields
 
-# Week 13: Basics of AI-assisted coding using GitHub Copilot / CodiumAI (References 2 and 3)
+# Week 13: 
+Basics of AI-assisted coding using GitHub Copilot / CodiumAI (References 2 and 3)
 
-# Week 14: Code comprehension - analyzing AI-generated Code
+# Week 14: 
+Code comprehension - analyzing AI-generated Code
 
-# Week 15: Mini Project
+# Week 15:
+Mini Project
